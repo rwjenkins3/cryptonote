@@ -112,6 +112,7 @@ const std::initializer_list<const char*> SEED_NODES = {
   //"your_seed_ip1.com:8080",
   //"your_seed_ip2.com:8080",
     "34.238.247.250:17090",
+    "54.84.212.166:17090",
 };
 
 struct CheckpointData {
